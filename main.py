@@ -9,6 +9,7 @@ from dbhandler import DBHandler
 from dbhandler import POINTS_RESULT_PREDICTED, POINTS_WINNER_PREDICTED
 from teams_dict import teams_dict
 from votehandler import VoteHandler
+from zoneinfo import ZoneInfo
 
 
 load_dotenv()
@@ -32,7 +33,7 @@ vote_handler = VoteHandler()
 @bot.event
 async def on_ready():
     print(f'Bot has logged in as {bot.user}')
-    # asyncio.create_task(notify_match_start())
+    asyncio.create_task(notify_match_start())
 
 @bot.command(pass_context=True)
 async def help(ctx):
@@ -154,7 +155,7 @@ async def notify_match_start():
         for match in schedule:
             match_time = match['datetime']
             notification_time = match_time - timedelta(minutes=1)
-            now = datetime.now() + timedelta(hours=2)
+            now = datetime.now(ZoneInfo("Europe/Warsaw")).replace(tzinfo=None)
             if now >= notification_time and now < match_time:
                 print(now)
                 channel = bot.get_channel(WC_CHANNEL_ID)

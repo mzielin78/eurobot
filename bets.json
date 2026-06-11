@@ -7,7 +7,20 @@
             "team1": "Mexico",
             "team2": "South Africa",
             "result": "1-1",
-            "bets": []
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "0blondasek0_88947",
+                    "proposed_result": "3-1"
+                }
+            ]
         },
         {
             "match_id": 2,
@@ -15,8 +28,17 @@
             "time": "04:00",
             "team1": "South Korea",
             "team2": "Czechia",
-            "result": "",
-            "bets": []
+            "result": "3-2",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-3"
+                }
+            ]
         },
         {
             "match_id": 3,
@@ -25,7 +47,12 @@
             "team1": "Canada",
             "team2": "Bosnia and Herzegovina",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                }
+            ]
         },
         {
             "match_id": 4,
@@ -34,7 +61,12 @@
             "team1": "United States",
             "team2": "Paraguay",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-0"
+                }
+            ]
         },
         {
             "match_id": 5,
@@ -43,7 +75,12 @@
             "team1": "Qatar",
             "team2": "Switzerland",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-4"
+                }
+            ]
         },
         {
             "match_id": 6,
@@ -52,7 +89,12 @@
             "team1": "Brazil",
             "team2": "Morocco",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-1"
+                }
+            ]
         },
         {
             "match_id": 7,
@@ -61,7 +103,12 @@
             "team1": "Haiti",
             "team2": "Scotland",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-5"
+                }
+            ]
         },
         {
             "match_id": 8,
@@ -70,7 +117,12 @@
             "team1": "Australia",
             "team2": "Turkey",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                }
+            ]
         },
         {
             "match_id": 9,
@@ -79,7 +131,12 @@
             "team1": "Germany",
             "team2": "Cura\u00e7ao",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "6-0"
+                }
+            ]
         },
         {
             "match_id": 10,
@@ -88,7 +145,12 @@
             "team1": "Netherlands",
             "team2": "Japan",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                }
+            ]
         },
         {
             "match_id": 11,
@@ -97,7 +159,12 @@
             "team1": "Ivory Coast",
             "team2": "Ecuador",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                }
+            ]
         },
         {
             "match_id": 12,
@@ -106,7 +173,12 @@
             "team1": "Sweden",
             "team2": "Tunisia",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-0"
+                }
+            ]
         },
         {
             "match_id": 13,
@@ -115,7 +187,12 @@
             "team1": "Spain",
             "team2": "Cape Verde",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "5-0"
+                }
+            ]
         },
         {
             "match_id": 14,
@@ -124,7 +201,12 @@
             "team1": "Belgium",
             "team2": "Egypt",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-0"
+                }
+            ]
         },
         {
             "match_id": 15,
@@ -133,7 +215,12 @@
             "team1": "Saudi Arabia",
             "team2": "Uruguay",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                }
+            ]
         },
         {
             "match_id": 16,
@@ -142,7 +229,12 @@
             "team1": "Iran",
             "team2": "New Zealand",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                }
+            ]
         },
         {
             "match_id": 17,
@@ -151,7 +243,12 @@
             "team1": "France",
             "team2": "Senegal",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "4-1"
+                }
+            ]
         },
         {
             "match_id": 18,
@@ -160,7 +257,12 @@
             "team1": "Iraq",
             "team2": "Norway",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                }
+            ]
         },
         {
             "match_id": 19,
@@ -169,7 +271,12 @@
             "team1": "Argentina",
             "team2": "Algeria",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                }
+            ]
         },
         {
             "match_id": 20,
@@ -178,7 +285,12 @@
             "team1": "Austria",
             "team2": "Jordan",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-0"
+                }
+            ]
         },
         {
             "match_id": 21,
@@ -187,7 +299,12 @@
             "team1": "Portugal",
             "team2": "DR Congo",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "5-1"
+                }
+            ]
         },
         {
             "match_id": 22,
@@ -196,7 +313,12 @@
             "team1": "England",
             "team2": "Croatia",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-0"
+                }
+            ]
         },
         {
             "match_id": 23,
@@ -205,7 +327,12 @@
             "team1": "Ghana",
             "team2": "Panama",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-1"
+                }
+            ]
         },
         {
             "match_id": 24,
@@ -214,7 +341,12 @@
             "team1": "Uzbekistan",
             "team2": "Colombia",
             "result": "",
-            "bets": []
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                }
+            ]
         },
         {
             "match_id": 25,

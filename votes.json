@@ -41,7 +41,9 @@
                 "id": 7,
                 "name": "Raphinha",
                 "country": "Brazil",
-                "voters": []
+                "voters": [
+                    "0blondasek0_88947"
+                ]
             },
             {
                 "id": 8,
@@ -59,7 +61,9 @@
                 "id": 10,
                 "name": "Ousmane Dembele",
                 "country": "France",
-                "voters": []
+                "voters": [
+                    "wolphramalpha"
+                ]
             },
             {
                 "id": 11,
@@ -280,7 +284,10 @@
             {
                 "id": 41,
                 "name": "Spain",
-                "voters": []
+                "voters": [
+                    "wolphramalpha",
+                    "0blondasek0_88947"
+                ]
             },
             {
                 "id": 42,
@@ -320,7 +327,7 @@
         ]
     },
     "results": {
-        "player_won": "",
-        "country_won": "Algeria"
+        "player_won": "Ousmane Dembele",
+        "country_won": "Spain"
     }
 }
