@@ -1,0 +1,940 @@
+{
+    "matches": [
+        {
+            "match_id": 1,
+            "date": "2026-06-11",
+            "time": "21:00",
+            "team1": "Mexico",
+            "team2": "South Africa",
+            "result": "1-1",
+            "bets": []
+        },
+        {
+            "match_id": 2,
+            "date": "2026-06-12",
+            "time": "04:00",
+            "team1": "South Korea",
+            "team2": "Czechia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 3,
+            "date": "2026-06-12",
+            "time": "21:00",
+            "team1": "Canada",
+            "team2": "Bosnia and Herzegovina",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 4,
+            "date": "2026-06-13",
+            "time": "03:00",
+            "team1": "United States",
+            "team2": "Paraguay",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 5,
+            "date": "2026-06-13",
+            "time": "21:00",
+            "team1": "Qatar",
+            "team2": "Switzerland",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 6,
+            "date": "2026-06-14",
+            "time": "00:00",
+            "team1": "Brazil",
+            "team2": "Morocco",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 7,
+            "date": "2026-06-14",
+            "time": "03:00",
+            "team1": "Haiti",
+            "team2": "Scotland",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 8,
+            "date": "2026-06-14",
+            "time": "06:00",
+            "team1": "Australia",
+            "team2": "Turkey",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 9,
+            "date": "2026-06-14",
+            "time": "19:00",
+            "team1": "Germany",
+            "team2": "Cura\u00e7ao",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 10,
+            "date": "2026-06-14",
+            "time": "22:00",
+            "team1": "Netherlands",
+            "team2": "Japan",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 11,
+            "date": "2026-06-15",
+            "time": "01:00",
+            "team1": "Ivory Coast",
+            "team2": "Ecuador",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 12,
+            "date": "2026-06-15",
+            "time": "04:00",
+            "team1": "Sweden",
+            "team2": "Tunisia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 13,
+            "date": "2026-06-15",
+            "time": "18:00",
+            "team1": "Spain",
+            "team2": "Cape Verde",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 14,
+            "date": "2026-06-15",
+            "time": "21:00",
+            "team1": "Belgium",
+            "team2": "Egypt",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 15,
+            "date": "2026-06-16",
+            "time": "00:00",
+            "team1": "Saudi Arabia",
+            "team2": "Uruguay",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 16,
+            "date": "2026-06-16",
+            "time": "03:00",
+            "team1": "Iran",
+            "team2": "New Zealand",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 17,
+            "date": "2026-06-16",
+            "time": "21:00",
+            "team1": "France",
+            "team2": "Senegal",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 18,
+            "date": "2026-06-17",
+            "time": "00:00",
+            "team1": "Iraq",
+            "team2": "Norway",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 19,
+            "date": "2026-06-17",
+            "time": "03:00",
+            "team1": "Argentina",
+            "team2": "Algeria",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 20,
+            "date": "2026-06-17",
+            "time": "06:00",
+            "team1": "Austria",
+            "team2": "Jordan",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 21,
+            "date": "2026-06-17",
+            "time": "19:00",
+            "team1": "Portugal",
+            "team2": "DR Congo",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 22,
+            "date": "2026-06-17",
+            "time": "22:00",
+            "team1": "England",
+            "team2": "Croatia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 23,
+            "date": "2026-06-18",
+            "time": "01:00",
+            "team1": "Ghana",
+            "team2": "Panama",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 24,
+            "date": "2026-06-18",
+            "time": "04:00",
+            "team1": "Uzbekistan",
+            "team2": "Colombia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 25,
+            "date": "2026-06-18",
+            "time": "18:00",
+            "team1": "Czechia",
+            "team2": "South Africa",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 26,
+            "date": "2026-06-18",
+            "time": "21:00",
+            "team1": "Switzerland",
+            "team2": "Bosnia and Herzegovina",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 27,
+            "date": "2026-06-19",
+            "time": "00:00",
+            "team1": "Canada",
+            "team2": "Qatar",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 28,
+            "date": "2026-06-19",
+            "time": "03:00",
+            "team1": "Mexico",
+            "team2": "South Korea",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 29,
+            "date": "2026-06-19",
+            "time": "21:00",
+            "team1": "United States",
+            "team2": "Australia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 30,
+            "date": "2026-06-20",
+            "time": "00:00",
+            "team1": "Scotland",
+            "team2": "Morocco",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 31,
+            "date": "2026-06-20",
+            "time": "02:30",
+            "team1": "Brazil",
+            "team2": "Haiti",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 32,
+            "date": "2026-06-20",
+            "time": "05:00",
+            "team1": "Turkey",
+            "team2": "Paraguay",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 33,
+            "date": "2026-06-20",
+            "time": "19:00",
+            "team1": "Netherlands",
+            "team2": "Sweden",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 34,
+            "date": "2026-06-20",
+            "time": "22:00",
+            "team1": "Germany",
+            "team2": "Ivory Coast",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 35,
+            "date": "2026-06-21",
+            "time": "02:00",
+            "team1": "Ecuador",
+            "team2": "Cura\u00e7ao",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 36,
+            "date": "2026-06-21",
+            "time": "06:00",
+            "team1": "Tunisia",
+            "team2": "Japan",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 37,
+            "date": "2026-06-21",
+            "time": "18:00",
+            "team1": "Spain",
+            "team2": "Saudi Arabia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 38,
+            "date": "2026-06-21",
+            "time": "21:00",
+            "team1": "Belgium",
+            "team2": "Iran",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 39,
+            "date": "2026-06-22",
+            "time": "00:00",
+            "team1": "Uruguay",
+            "team2": "Cape Verde",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 40,
+            "date": "2026-06-22",
+            "time": "03:00",
+            "team1": "New Zealand",
+            "team2": "Egypt",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 41,
+            "date": "2026-06-22",
+            "time": "19:00",
+            "team1": "Argentina",
+            "team2": "Austria",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 42,
+            "date": "2026-06-22",
+            "time": "23:00",
+            "team1": "France",
+            "team2": "Iraq",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 43,
+            "date": "2026-06-23",
+            "time": "02:00",
+            "team1": "Norway",
+            "team2": "Senegal",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 44,
+            "date": "2026-06-23",
+            "time": "05:00",
+            "team1": "Jordan",
+            "team2": "Algeria",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 45,
+            "date": "2026-06-23",
+            "time": "19:00",
+            "team1": "Portugal",
+            "team2": "Uzbekistan",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 46,
+            "date": "2026-06-23",
+            "time": "22:00",
+            "team1": "England",
+            "team2": "Ghana",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 47,
+            "date": "2026-06-24",
+            "time": "01:00",
+            "team1": "Panama",
+            "team2": "Croatia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 48,
+            "date": "2026-06-24",
+            "time": "04:00",
+            "team1": "Colombia",
+            "team2": "DR Congo",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 49,
+            "date": "2026-06-24",
+            "time": "21:00",
+            "team1": "Switzerland",
+            "team2": "Canada",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 50,
+            "date": "2026-06-24",
+            "time": "21:00",
+            "team1": "Bosnia and Herzegovina",
+            "team2": "Qatar",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 51,
+            "date": "2026-06-25",
+            "time": "00:00",
+            "team1": "Scotland",
+            "team2": "Brazil",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 52,
+            "date": "2026-06-25",
+            "time": "00:00",
+            "team1": "Morocco",
+            "team2": "Haiti",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 53,
+            "date": "2026-06-25",
+            "time": "03:00",
+            "team1": "Czechia",
+            "team2": "Mexico",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 54,
+            "date": "2026-06-25",
+            "time": "03:00",
+            "team1": "South Africa",
+            "team2": "South Korea",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 55,
+            "date": "2026-06-25",
+            "time": "22:00",
+            "team1": "Ecuador",
+            "team2": "Germany",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 56,
+            "date": "2026-06-25",
+            "time": "22:00",
+            "team1": "Cura\u00e7ao",
+            "team2": "Ivory Coast",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 57,
+            "date": "2026-06-26",
+            "time": "01:00",
+            "team1": "Tunisia",
+            "team2": "Netherlands",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 58,
+            "date": "2026-06-26",
+            "time": "01:00",
+            "team1": "Japan",
+            "team2": "Sweden",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 59,
+            "date": "2026-06-26",
+            "time": "04:00",
+            "team1": "Turkey",
+            "team2": "United States",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 60,
+            "date": "2026-06-26",
+            "time": "04:00",
+            "team1": "Paraguay",
+            "team2": "Australia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 61,
+            "date": "2026-06-26",
+            "time": "21:00",
+            "team1": "Norway",
+            "team2": "France",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 62,
+            "date": "2026-06-26",
+            "time": "21:00",
+            "team1": "Senegal",
+            "team2": "Iraq",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 63,
+            "date": "2026-06-27",
+            "time": "02:00",
+            "team1": "Uruguay",
+            "team2": "Spain",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 64,
+            "date": "2026-06-27",
+            "time": "02:00",
+            "team1": "Cape Verde",
+            "team2": "Saudi Arabia",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 65,
+            "date": "2026-06-27",
+            "time": "05:00",
+            "team1": "New Zealand",
+            "team2": "Belgium",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 66,
+            "date": "2026-06-27",
+            "time": "05:00",
+            "team1": "Egypt",
+            "team2": "Iran",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 67,
+            "date": "2026-06-27",
+            "time": "23:00",
+            "team1": "Panama",
+            "team2": "England",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 68,
+            "date": "2026-06-27",
+            "time": "23:00",
+            "team1": "Croatia",
+            "team2": "Ghana",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 69,
+            "date": "2026-06-28",
+            "time": "01:30",
+            "team1": "Colombia",
+            "team2": "Portugal",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 70,
+            "date": "2026-06-28",
+            "time": "01:30",
+            "team1": "DR Congo",
+            "team2": "Uzbekistan",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 71,
+            "date": "2026-06-28",
+            "time": "04:00",
+            "team1": "Jordan",
+            "team2": "Argentina",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 72,
+            "date": "2026-06-28",
+            "time": "04:00",
+            "team1": "Algeria",
+            "team2": "Austria",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 73,
+            "date": "2026-06-28",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 74,
+            "date": "2026-06-29",
+            "time": "19:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 75,
+            "date": "2026-06-29",
+            "time": "22:30",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 76,
+            "date": "2026-06-30",
+            "time": "03:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 77,
+            "date": "2026-06-30",
+            "time": "19:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 78,
+            "date": "2026-06-30",
+            "time": "23:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 79,
+            "date": "2026-07-01",
+            "time": "03:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 80,
+            "date": "2026-07-01",
+            "time": "18:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 81,
+            "date": "2026-07-01",
+            "time": "22:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 82,
+            "date": "2026-07-02",
+            "time": "02:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 83,
+            "date": "2026-07-02",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 84,
+            "date": "2026-07-03",
+            "time": "01:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 85,
+            "date": "2026-07-03",
+            "time": "05:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 86,
+            "date": "2026-07-03",
+            "time": "20:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 87,
+            "date": "2026-07-04",
+            "time": "00:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 88,
+            "date": "2026-07-04",
+            "time": "03:30",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 89,
+            "date": "2026-07-04",
+            "time": "19:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 90,
+            "date": "2026-07-04",
+            "time": "23:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 91,
+            "date": "2026-07-05",
+            "time": "22:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 92,
+            "date": "2026-07-06",
+            "time": "02:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 93,
+            "date": "2026-07-06",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 94,
+            "date": "2026-07-07",
+            "time": "02:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 95,
+            "date": "2026-07-07",
+            "time": "18:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 96,
+            "date": "2026-07-07",
+            "time": "22:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 97,
+            "date": "2026-07-09",
+            "time": "22:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 98,
+            "date": "2026-07-10",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 99,
+            "date": "2026-07-11",
+            "time": "23:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 100,
+            "date": "2026-07-12",
+            "time": "03:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 101,
+            "date": "2026-07-14",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 102,
+            "date": "2026-07-15",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 103,
+            "date": "2026-07-18",
+            "time": "23:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        },
+        {
+            "match_id": 104,
+            "date": "2026-07-19",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "top_scorer": {
+        "players": [
+            {
+                "id": 1,
+                "name": "Kylian Mbappe",
+                "country": "France",
+                "voters": []
+            },
+            {
+                "id": 2,
+                "name": "Harry Kane",
+                "country": "England",
+                "voters": []
+            },
+            {
+                "id": 3,
+                "name": "Cristiano Ronaldo",
+                "country": "Portugal",
+                "voters": []
+            },
+            {
+                "id": 4,
+                "name": "Erling Haaland",
+                "country": "Norway",
+                "voters": []
+            },
+            {
+                "id": 5,
+                "name": "Lamine Yamal",
+                "country": "Spain",
+                "voters": []
+            },
+            {
+                "id": 6,
+                "name": "Vinicius Junior",
+                "country": "Brazil",
+                "voters": []
+            },
+            {
+                "id": 7,
+                "name": "Raphinha",
+                "country": "Brazil",
+                "voters": []
+            },
+            {
+                "id": 8,
+                "name": "Lionel Messi",
+                "country": "Argentina",
+                "voters": []
+            },
+            {
+                "id": 9,
+                "name": "Mikel Oyarzabal",
+                "country": "Spain",
+                "voters": []
+            },
+            {
+                "id": 10,
+                "name": "Ousmane Dembele",
+                "country": "France",
+                "voters": []
+            },
+            {
+                "id": 11,
+                "name": "Michael Olise",
+                "country": "France",
+                "voters": []
+            },
+            {
+                "id": 12,
+                "name": "Nick Woltemade",
+                "country": "Germany",
+                "voters": []
+            }
+        ]
+    },
+    "winner": {
+        "countries": [
+            {
+                "id": 1,
+                "name": "Algeria",
+                "voters": []
+            },
+            {
+                "id": 2,
+                "name": "Argentina",
+                "voters": []
+            },
+            {
+                "id": 3,
+                "name": "Australia",
+                "voters": []
+            },
+            {
+                "id": 4,
+                "name": "Austria",
+                "voters": []
+            },
+            {
+                "id": 5,
+                "name": "Belgium",
+                "voters": []
+            },
+            {
+                "id": 6,
+                "name": "Bosnia and Herzegovina",
+                "voters": []
+            },
+            {
+                "id": 7,
+                "name": "Brazil",
+                "voters": []
+            },
+            {
+                "id": 8,
+                "name": "Canada",
+                "voters": []
+            },
+            {
+                "id": 9,
+                "name": "Cape Verde",
+                "voters": []
+            },
+            {
+                "id": 10,
+                "name": "Colombia",
+                "voters": []
+            },
+            {
+                "id": 11,
+                "name": "Croatia",
+                "voters": []
+            },
+            {
+                "id": 12,
+                "name": "Cura\u00e7ao",
+                "voters": []
+            },
+            {
+                "id": 13,
+                "name": "Czechia",
+                "voters": []
+            },
+            {
+                "id": 14,
+                "name": "DR Congo",
+                "voters": []
+            },
+            {
+                "id": 15,
+                "name": "Ecuador",
+                "voters": []
+            },
+            {
+                "id": 16,
+                "name": "Egypt",
+                "voters": []
+            },
+            {
+                "id": 17,
+                "name": "England",
+                "voters": []
+            },
+            {
+                "id": 18,
+                "name": "France",
+                "voters": []
+            },
+            {
+                "id": 19,
+                "name": "Germany",
+                "voters": []
+            },
+            {
+                "id": 20,
+                "name": "Ghana",
+                "voters": []
+            },
+            {
+                "id": 21,
+                "name": "Haiti",
+                "voters": []
+            },
+            {
+                "id": 22,
+                "name": "Iran",
+                "voters": []
+            },
+            {
+                "id": 23,
+                "name": "Iraq",
+                "voters": []
+            },
+            {
+                "id": 24,
+                "name": "Ivory Coast",
+                "voters": []
+            },
+            {
+                "id": 25,
+                "name": "Japan",
+                "voters": []
+            },
+            {
+                "id": 26,
+                "name": "Jordan",
+                "voters": []
+            },
+            {
+                "id": 27,
+                "name": "Mexico",
+                "voters": []
+            },
+            {
+                "id": 28,
+                "name": "Morocco",
+                "voters": []
+            },
+            {
+                "id": 29,
+                "name": "Netherlands",
+                "voters": []
+            },
+            {
+                "id": 30,
+                "name": "New Zealand",
+                "voters": []
+            },
+            {
+                "id": 31,
+                "name": "Norway",
+                "voters": []
+            },
+            {
+                "id": 32,
+                "name": "Panama",
+                "voters": []
+            },
+            {
+                "id": 33,
+                "name": "Paraguay",
+                "voters": []
+            },
+            {
+                "id": 34,
+                "name": "Portugal",
+                "voters": []
+            },
+            {
+                "id": 35,
+                "name": "Qatar",
+                "voters": []
+            },
+            {
+                "id": 36,
+                "name": "Saudi Arabia",
+                "voters": []
+            },
+            {
+                "id": 37,
+                "name": "Scotland",
+                "voters": []
+            },
+            {
+                "id": 38,
+                "name": "Senegal",
+                "voters": []
+            },
+            {
+                "id": 39,
+                "name": "South Africa",
+                "voters": []
+            },
+            {
+                "id": 40,
+                "name": "South Korea",
+                "voters": []
+            },
+            {
+                "id": 41,
+                "name": "Spain",
+                "voters": []
+            },
+            {
+                "id": 42,
+                "name": "Sweden",
+                "voters": []
+            },
+            {
+                "id": 43,
+                "name": "Switzerland",
+                "voters": []
+            },
+            {
+                "id": 44,
+                "name": "Tunisia",
+                "voters": []
+            },
+            {
+                "id": 45,
+                "name": "Turkey",
+                "voters": []
+            },
+            {
+                "id": 46,
+                "name": "United States",
+                "voters": []
+            },
+            {
+                "id": 47,
+                "name": "Uruguay",
+                "voters": []
+            },
+            {
+                "id": 48,
+                "name": "Uzbekistan",
+                "voters": []
+            }
+        ]
+    },
+    "results": {
+        "player_won": "",
+        "country_won": "Algeria"
+    }
+}

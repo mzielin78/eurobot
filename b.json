@@ -1,0 +1,1386 @@
+{
+    "matches": [
+        {
+            "match_id": 1,
+            "date": "2024-06-14",
+            "time": "21:00",
+            "team1": "Germany",
+            "team2": "Scotland",
+            "result": "5-1",
+            "bets": []
+        },
+        {
+            "match_id": 2,
+            "date": "2024-06-15",
+            "time": "15:00",
+            "team1": "Hungary",
+            "team2": "Switzerland",
+            "result": "1-3",
+            "bets": []
+        },
+        {
+            "match_id": 3,
+            "date": "2024-06-15",
+            "time": "18:00",
+            "team1": "Spain",
+            "team2": "Croatia",
+            "result": "3-0",
+            "bets": []
+        },
+        {
+            "match_id": 4,
+            "date": "2024-06-15",
+            "time": "21:00",
+            "team1": "Italy",
+            "team2": "Albania",
+            "result": "2-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "4-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 5,
+            "date": "2024-06-16",
+            "time": "15:00",
+            "team1": "Poland",
+            "team2": "Netherlands",
+            "result": "1-2",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-3"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 6,
+            "date": "2024-06-16",
+            "time": "18:00",
+            "team1": "Slovenia",
+            "team2": "Denmark",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 7,
+            "date": "2024-06-16",
+            "time": "21:00",
+            "team1": "Serbia",
+            "team2": "England",
+            "result": "0-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-4"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-3"
+                }
+            ]
+        },
+        {
+            "match_id": 8,
+            "date": "2024-06-17",
+            "time": "15:00",
+            "team1": "Romania",
+            "team2": "Ukraine",
+            "result": "3-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 9,
+            "date": "2024-06-17",
+            "time": "18:00",
+            "team1": "Belgium",
+            "team2": "Slovakia",
+            "result": "0-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "3-0"
+                }
+            ]
+        },
+        {
+            "match_id": 10,
+            "date": "2024-06-17",
+            "time": "21:00",
+            "team1": "Austria",
+            "team2": "France",
+            "result": "0-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-3"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 11,
+            "date": "2024-06-18",
+            "time": "18:00",
+            "team1": "Turkiye",
+            "team2": "Georgia",
+            "result": "3-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 12,
+            "date": "2024-06-18",
+            "time": "21:00",
+            "team1": "Portugal",
+            "team2": "Czechia",
+            "result": "2-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "4-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 13,
+            "date": "2024-06-19",
+            "time": "15:00",
+            "team1": "Croatia",
+            "team2": "Albania",
+            "result": "2-2",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "3-1"
+                }
+            ]
+        },
+        {
+            "match_id": 14,
+            "date": "2024-06-19",
+            "time": "18:00",
+            "team1": "Germany",
+            "team2": "Hungary",
+            "result": "2-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "4-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "3-0"
+                }
+            ]
+        },
+        {
+            "match_id": 15,
+            "date": "2024-06-19",
+            "time": "21:00",
+            "team1": "Scotland",
+            "team2": "Switzerland",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 16,
+            "date": "2024-06-20",
+            "time": "15:00",
+            "team1": "Slovenia",
+            "team2": "Serbia",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 17,
+            "date": "2024-06-20",
+            "time": "18:00",
+            "team1": "Denmark",
+            "team2": "England",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 18,
+            "date": "2024-06-20",
+            "time": "21:00",
+            "team1": "Spain",
+            "team2": "Italy",
+            "result": "1-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 19,
+            "date": "2024-06-21",
+            "time": "15:00",
+            "team1": "Slovakia",
+            "team2": "Ukraine",
+            "result": "1-2",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 20,
+            "date": "2024-06-21",
+            "time": "18:00",
+            "team1": "Poland",
+            "team2": "Austria",
+            "result": "1-3",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 21,
+            "date": "2024-06-21",
+            "time": "21:00",
+            "team1": "Netherlands",
+            "team2": "France",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 22,
+            "date": "2024-06-22",
+            "time": "15:00",
+            "team1": "Georgia",
+            "team2": "Czechia",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                }
+            ]
+        },
+        {
+            "match_id": 23,
+            "date": "2024-06-22",
+            "time": "18:00",
+            "team1": "Turkiye",
+            "team2": "Portugal",
+            "result": "0-3",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-2"
+                }
+            ]
+        },
+        {
+            "match_id": 24,
+            "date": "2024-06-22",
+            "time": "21:00",
+            "team1": "Belgium",
+            "team2": "Romania",
+            "result": "2-0",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 25,
+            "date": "2024-06-23",
+            "time": "21:00",
+            "team1": "Switzerland",
+            "team2": "Germany",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                }
+            ]
+        },
+        {
+            "match_id": 26,
+            "date": "2024-06-23",
+            "time": "21:00",
+            "team1": "Scotland",
+            "team2": "Hungary",
+            "result": "0-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 27,
+            "date": "2024-06-24",
+            "time": "21:00",
+            "team1": "Croatia",
+            "team2": "Italy",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                }
+            ]
+        },
+        {
+            "match_id": 28,
+            "date": "2024-06-24",
+            "time": "21:00",
+            "team1": "Albania",
+            "team2": "Spain",
+            "result": "0-1",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-3"
+                }
+            ]
+        },
+        {
+            "match_id": 29,
+            "date": "2024-06-25",
+            "time": "18:00",
+            "team1": "Netherlands",
+            "team2": "Austria",
+            "result": "2-3",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 30,
+            "date": "2024-06-25",
+            "time": "18:00",
+            "team1": "France",
+            "team2": "Poland",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "3-0"
+                }
+            ]
+        },
+        {
+            "match_id": 31,
+            "date": "2024-06-25",
+            "time": "21:00",
+            "team1": "England",
+            "team2": "Slovenia",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 32,
+            "date": "2024-06-25",
+            "time": "21:00",
+            "team1": "Denmark",
+            "team2": "Serbia",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 33,
+            "date": "2024-06-26",
+            "time": "18:00",
+            "team1": "Slovakia",
+            "team2": "Romania",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                }
+            ]
+        },
+        {
+            "match_id": 34,
+            "date": "2024-06-26",
+            "time": "18:00",
+            "team1": "Ukraine",
+            "team2": "Belgium",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 35,
+            "date": "2024-06-26",
+            "time": "21:00",
+            "team1": "Czechia",
+            "team2": "Turkiye",
+            "result": "1-2",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 36,
+            "date": "2024-06-26",
+            "time": "21:00",
+            "team1": "Georgia",
+            "team2": "Portugal",
+            "result": "2-0",
+            "bets": [
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-3"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                }
+            ]
+        },
+        {
+            "match_id": 37,
+            "date": "2024-06-29",
+            "time": "18:00",
+            "team1": "Switzerland",
+            "team2": "Italy",
+            "result": "2-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 38,
+            "date": "2024-06-29",
+            "time": "21:00",
+            "team1": "Germany",
+            "team2": "Denmark",
+            "result": "2-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 39,
+            "date": "2024-06-30",
+            "time": "18:00",
+            "team1": "England",
+            "team2": "Slovakia",
+            "result": "2-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 40,
+            "date": "2024-06-30",
+            "time": "21:00",
+            "team1": "Spain",
+            "team2": "Georgia",
+            "result": "4-1",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 41,
+            "date": "2024-07-01",
+            "time": "18:00",
+            "team1": "France",
+            "team2": "Belgium",
+            "result": "1-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 42,
+            "date": "2024-07-01",
+            "time": "21:00",
+            "team1": "Portugal",
+            "team2": "Slovenia",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 43,
+            "date": "2024-07-02",
+            "time": "18:00",
+            "team1": "Romania",
+            "team2": "Netherlands",
+            "result": "0-3",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "0-2"
+                }
+            ]
+        },
+        {
+            "match_id": 44,
+            "date": "2024-07-02",
+            "time": "21:00",
+            "team1": "Austria",
+            "team2": "Turkiye",
+            "result": "1-2",
+            "bets": [
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-0"
+                }
+            ]
+        },
+        {
+            "match_id": 45,
+            "date": "2024-07-05",
+            "time": "18:00",
+            "team1": "Spain",
+            "team2": "Germany",
+            "result": "2-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-3"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 46,
+            "date": "2024-07-05",
+            "time": "21:00",
+            "team1": "Portugal",
+            "team2": "France",
+            "result": "0-0",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "1-0"
+                }
+            ]
+        },
+        {
+            "match_id": 47,
+            "date": "2024-07-06",
+            "time": "18:00",
+            "team1": "England",
+            "team2": "Switzerland",
+            "result": "1-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "0-1"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "0-1"
+                }
+            ]
+        },
+        {
+            "match_id": 48,
+            "date": "2024-07-06",
+            "time": "21:00",
+            "team1": "Netherlands",
+            "team2": "Turkiye",
+            "result": "2-1",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "wolphramalpha",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "blondas1398",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "marcingruchala.",
+                    "proposed_result": "2-1"
+                }
+            ]
+        },
+        {
+            "match_id": 49,
+            "date": "2024-07-09",
+            "time": "21:00",
+            "team1": "Spain",
+            "team2": "France",
+            "result": "",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "adamek195",
+                    "proposed_result": "0-1"
+                }
+            ]
+        },
+        {
+            "match_id": 50,
+            "date": "2024-07-10",
+            "time": "21:00",
+            "team1": "Netherlands",
+            "team2": "England",
+            "result": "",
+            "bets": [
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
+                }
+            ]
+        },
+        {
+            "match_id": 51,
+            "date": "2024-07-14",
+            "time": "21:00",
+            "team1": "",
+            "team2": "",
+            "result": "",
+            "bets": []
+        }
+    ]
+}
