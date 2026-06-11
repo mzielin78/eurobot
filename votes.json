@@ -23,7 +23,9 @@
                 "id": 4,
                 "name": "Erling Haaland",
                 "country": "Norway",
-                "voters": []
+                "voters": [
+                    "kajetanzdanowicz"
+                ]
             },
             {
                 "id": 5,
@@ -169,7 +171,9 @@
             {
                 "id": 18,
                 "name": "France",
-                "voters": []
+                "voters": [
+                    "kajetanzdanowicz"
+                ]
             },
             {
                 "id": 19,
@@ -327,7 +331,7 @@
         ]
     },
     "results": {
-        "player_won": "Ousmane Dembele",
-        "country_won": "Spain"
+        "player_won": "",
+        "country_won": ""
     }
 }

@@ -6,7 +6,7 @@
             "time": "21:00",
             "team1": "Mexico",
             "team2": "South Africa",
-            "result": "1-1",
+            "result": "2-0",
             "bets": [
                 {
                     "user": "kajetanzdanowicz",
@@ -37,6 +37,10 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "2-3"
+                },
+                {
+                    "user": "0blondasek0_88947",
+                    "proposed_result": "1-1"
                 }
             ]
         },
