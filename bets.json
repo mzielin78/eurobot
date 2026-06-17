@@ -19,6 +19,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "3-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -41,6 +45,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-1"
                 }
             ]
         },
@@ -62,6 +70,10 @@
                 },
                 {
                     "user": "bl0ndasek",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "dzidzella",
                     "proposed_result": "1-1"
                 }
             ]
@@ -85,6 +97,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "4-1"
                 }
             ]
         },
@@ -107,6 +123,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "0-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-2"
                 }
             ]
         },
@@ -129,6 +149,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -151,6 +175,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "1-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -173,6 +201,10 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "1-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -182,7 +214,7 @@
             "time": "19:00",
             "team1": "Germany",
             "team2": "Cura\u00e7ao",
-            "result": "",
+            "result": "7-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -190,7 +222,15 @@
                 },
                 {
                     "user": "kajetanzdanowicz",
-                    "proposed_result": "6-0"
+                    "proposed_result": "5-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "4-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -200,7 +240,7 @@
             "time": "22:00",
             "team1": "Netherlands",
             "team2": "Japan",
-            "result": "",
+            "result": "2-2",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -209,6 +249,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "2-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -218,7 +266,7 @@
             "time": "01:00",
             "team1": "Ivory Coast",
             "team2": "Ecuador",
-            "result": "",
+            "result": "1-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -227,6 +275,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "2-2"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "1-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -236,11 +292,23 @@
             "time": "04:00",
             "team1": "Sweden",
             "team2": "Tunisia",
-            "result": "",
+            "result": "5-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -250,11 +318,23 @@
             "time": "18:00",
             "team1": "Spain",
             "team2": "Cape Verde",
-            "result": "",
+            "result": "0-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "5-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "6-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -264,10 +344,22 @@
             "time": "21:00",
             "team1": "Belgium",
             "team2": "Egypt",
-            "result": "",
+            "result": "1-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "dzidzella",
                     "proposed_result": "2-0"
                 }
             ]
@@ -278,11 +370,23 @@
             "time": "00:00",
             "team1": "Saudi Arabia",
             "team2": "Uruguay",
-            "result": "",
+            "result": "1-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "0-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -292,11 +396,23 @@
             "time": "03:00",
             "team1": "Iran",
             "team2": "New Zealand",
-            "result": "",
+            "result": "2-2",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -306,11 +422,23 @@
             "time": "21:00",
             "team1": "France",
             "team2": "Senegal",
-            "result": "",
+            "result": "3-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "4-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -320,11 +448,23 @@
             "time": "00:00",
             "team1": "Iraq",
             "team2": "Norway",
-            "result": "",
+            "result": "1-4",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-3"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -334,11 +474,23 @@
             "time": "03:00",
             "team1": "Argentina",
             "team2": "Algeria",
-            "result": "",
+            "result": "3-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "2-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "4-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -348,11 +500,23 @@
             "time": "06:00",
             "team1": "Austria",
             "team2": "Jordan",
-            "result": "",
+            "result": "3-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "3-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-3"
                 }
             ]
         },
@@ -362,11 +526,23 @@
             "time": "19:00",
             "team1": "Portugal",
             "team2": "DR Congo",
-            "result": "",
+            "result": "1-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "5-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "3-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "4-1"
                 }
             ]
         },
@@ -381,6 +557,18 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "0-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-1"
                 }
             ]
         },
@@ -395,6 +583,14 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "3-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -409,6 +605,14 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-3"
                 }
             ]
         },
