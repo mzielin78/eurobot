@@ -5,7 +5,9 @@
                 "id": 1,
                 "name": "Kylian Mbappe",
                 "country": "France",
-                "voters": []
+                "voters": [
+                    "dzidzella"
+                ]
             },
             {
                 "id": 2,
@@ -172,7 +174,8 @@
                 "id": 18,
                 "name": "France",
                 "voters": [
-                    "kajetanzdanowicz"
+                    "kajetanzdanowicz",
+                    "dzidzella"
                 ]
             },
             {
