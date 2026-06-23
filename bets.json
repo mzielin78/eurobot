@@ -1072,7 +1072,7 @@
             "time": "23:00",
             "team1": "France",
             "team2": "Iraq",
-            "result": "",
+            "result": "3-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1098,7 +1098,7 @@
             "time": "02:00",
             "team1": "Norway",
             "team2": "Senegal",
-            "result": "",
+            "result": "3-2",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1120,7 +1120,7 @@
             "time": "05:00",
             "team1": "Jordan",
             "team2": "Algeria",
-            "result": "",
+            "result": "1-2",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1129,6 +1129,10 @@
                 {
                     "user": "dzidzella",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "0-1"
                 },
                 {
                     "user": "kajetanzdanowicz",
@@ -1151,6 +1155,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "3-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-2"
                 }
             ]
         },
@@ -1169,6 +1181,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "3-0"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "3-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -1187,6 +1207,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "1-2"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-3"
                 }
             ]
         },
@@ -1205,6 +1233,14 @@
                 {
                     "user": "kajetanzdanowicz",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-1"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "3-0"
                 }
             ]
         },
@@ -1219,6 +1255,10 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "1-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-2"
                 }
             ]
         },
@@ -1233,6 +1273,10 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "2-1"
+                },
+                {
+                    "user": "bl0ndasek",
+                    "proposed_result": "2-0"
                 }
             ]
         },
