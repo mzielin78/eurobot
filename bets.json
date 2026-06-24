@@ -1146,7 +1146,7 @@
             "time": "19:00",
             "team1": "Portugal",
             "team2": "Uzbekistan",
-            "result": "",
+            "result": "5-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1172,7 +1172,7 @@
             "time": "22:00",
             "team1": "England",
             "team2": "Ghana",
-            "result": "",
+            "result": "0-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1198,7 +1198,7 @@
             "time": "01:00",
             "team1": "Panama",
             "team2": "Croatia",
-            "result": "",
+            "result": "0-1",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1224,7 +1224,7 @@
             "time": "04:00",
             "team1": "Colombia",
             "team2": "DR Congo",
-            "result": "",
+            "result": "1-0",
             "bets": [
                 {
                     "user": "wolphramalpha",
@@ -1259,6 +1259,14 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "2-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-1"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-1"
                 }
             ]
         },
@@ -1277,6 +1285,14 @@
                 {
                     "user": "bl0ndasek",
                     "proposed_result": "2-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -1291,6 +1307,14 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "1-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-4"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
                 }
             ]
         },
@@ -1305,6 +1329,14 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "3-0"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "2-0"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "2-0"
                 }
             ]
         },
@@ -1319,6 +1351,14 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "1-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "0-2"
                 }
             ]
         },
@@ -1332,6 +1372,14 @@
             "bets": [
                 {
                     "user": "wolphramalpha",
+                    "proposed_result": "0-2"
+                },
+                {
+                    "user": "dzidzella",
+                    "proposed_result": "1-3"
+                },
+                {
+                    "user": "kajetanzdanowicz",
                     "proposed_result": "0-2"
                 }
             ]
@@ -1347,6 +1395,10 @@
                 {
                     "user": "wolphramalpha",
                     "proposed_result": "1-3"
+                },
+                {
+                    "user": "kajetanzdanowicz",
+                    "proposed_result": "1-3"
                 }
             ]
         },
@@ -1360,6 +1412,10 @@
             "bets": [
                 {
                     "user": "wolphramalpha",
+                    "proposed_result": "0-3"
+                },
+                {
+                    "user": "kajetanzdanowicz",
                     "proposed_result": "0-3"
                 }
             ]
